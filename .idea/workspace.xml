@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aa8181e-6c3f-4265-98a5-9d7f33c87fc7" name="Changes" comment="Add Task1.java">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB 4/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB 4/student&amp;grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LAB 5/LibraryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Lab-Task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Lab-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB 7/EvenCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB 7/NumberCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB 8/PaymentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
     "Application.Grade.executor": "Run",
     "Application.LibraryManagement.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PaymentTest.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
@@ -174,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745360168321</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Task1.java">
+      <option name="closed" value="true" />
+      <created>1745360806031</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745360806031</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Task1.java">
+      <option name="closed" value="true" />
+      <created>1745361092026</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1745361092026</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
